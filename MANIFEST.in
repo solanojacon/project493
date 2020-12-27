@@ -1,0 +1,3 @@
+graft wanna_buy_house
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  wanna_buy_house/jupy *
